@@ -1,0 +1,8 @@
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\publish\WebAdminAttendance.exe
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\publish\appsettings.Development.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\publish\appsettings.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\publish\railway.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\publish\WebAdminAttendance.dll
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\publish\WebAdminAttendance.deps.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\publish\WebAdminAttendance.runtimeconfig.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\publish\WebAdminAttendance.pdb
