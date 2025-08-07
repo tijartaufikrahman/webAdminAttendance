@@ -2,7 +2,7 @@
 nixPkgs = ["dotnet-sdk"]
 
 [phases.build]
-cmds = ["dotnet restore", "dotnet publish -c Release -o /app/out"]
+cmds = ["dotnet restore", "dotnet publish -c Release"]
 
 [phases.start]
 cmd = "dotnet /app/out/WebAdminAttendance.dll"
