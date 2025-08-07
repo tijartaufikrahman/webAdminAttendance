@@ -1,8 +1,9 @@
 {
   "build": {
-    "builder": "NIXPACKS"
+    "builder": "NIXPACKS",
+    "buildCommand": "dotnet publish -c Release -o /app/out"
   },
   "deploy": {
-    "startCommand": "dotnet WebAdminAttendance.dll"
+    "startCommand": "dotnet /app/out/WebAdminAttendance.dll"
   }
 }
