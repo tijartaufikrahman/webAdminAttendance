@@ -1,7 +1,9 @@
 {
-  "rootDirectory": "WebAdminAttendance",
-  "buildCommand": "dotnet publish -c Release -o out",
-  "startCommand": "dotnet out/WebAdminAttendance.dll",
-  "installCommand": "dotnet restore",
-  "port": 3000
+  "build": {
+    "builder": "NIXPACKS",
+    "buildCommand": "dotnet publish -c Release -o /app/out"
+  },
+  "deploy": {
+    "startCommand": "dotnet /app/out/WebAdminAttendance.dll"
+  }
 }
