@@ -1,4 +1,6 @@
 C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\WebAdminAttendance.exe
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\out\out\publish\web.config
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\out\out\web.config
 C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\out\publish\web.config
 C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\out\web.config
 C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\publish\web.config
@@ -6,6 +8,16 @@ C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\appse
 C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\appsettings.json
 C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\out\appsettings.Development.json
 C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\out\appsettings.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\out\out\appsettings.Development.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\out\out\appsettings.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\out\out\publish\appsettings.Development.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\out\out\publish\appsettings.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\out\out\publish\railway.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\out\out\publish\WebAdminAttendance.deps.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\out\out\publish\WebAdminAttendance.runtimeconfig.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\out\out\railway.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\out\out\WebAdminAttendance.deps.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\out\out\WebAdminAttendance.runtimeconfig.json
 C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\out\publish\appsettings.Development.json
 C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\out\publish\appsettings.json
 C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\out\publish\railway.json

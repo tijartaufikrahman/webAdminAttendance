@@ -1,0 +1,8 @@
+[phases.setup]
+nixPkgs = ["dotnet-sdk"]
+
+[phases.build]
+cmds = ["dotnet restore", "dotnet publish -c Release -o /app/out"]
+
+[phases.start]
+cmd = "dotnet /app/out/WebAdminAttendance.dll"
