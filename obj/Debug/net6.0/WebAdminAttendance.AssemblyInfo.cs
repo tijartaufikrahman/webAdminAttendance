@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAdminAttendance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94f26fb341dcbddcd6f467929755d746d3bd2515")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08f58110268cbba972317c73e2ca607b0ad498c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAdminAttendance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAdminAttendance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

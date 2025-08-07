@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAdminAttendance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca96d4a3534344f540b6405a1c7bf87153da4840")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08f58110268cbba972317c73e2ca607b0ad498c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAdminAttendance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAdminAttendance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
