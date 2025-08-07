@@ -48,3 +48,15 @@ C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\bin\Relea
 C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\bin\Release\net6.0\out\railway.json
 C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\bin\Release\net6.0\out\WebAdminAttendance.deps.json
 C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\bin\Release\net6.0\out\WebAdminAttendance.runtimeconfig.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\bin\Release\net6.0\out\out\publish\web.config
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\bin\Release\net6.0\out\out\web.config
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\bin\Release\net6.0\out\out\appsettings.Development.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\bin\Release\net6.0\out\out\appsettings.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\bin\Release\net6.0\out\out\publish\appsettings.Development.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\bin\Release\net6.0\out\out\publish\appsettings.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\bin\Release\net6.0\out\out\publish\railway.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\bin\Release\net6.0\out\out\publish\WebAdminAttendance.deps.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\bin\Release\net6.0\out\out\publish\WebAdminAttendance.runtimeconfig.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\bin\Release\net6.0\out\out\railway.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\bin\Release\net6.0\out\out\WebAdminAttendance.deps.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\bin\Release\net6.0\out\out\WebAdminAttendance.runtimeconfig.json
