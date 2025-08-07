@@ -30,3 +30,9 @@ C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\obj\Relea
 C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\obj\Release\net6.0\WebAdminAttendance.pdb
 C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\obj\Release\net6.0\WebAdminAttendance.genruntimeconfig.cache
 C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\obj\Release\net6.0\ref\WebAdminAttendance.dll
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\bin\Release\net6.0\publish\web.config
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\bin\Release\net6.0\publish\appsettings.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\bin\Release\net6.0\publish\railway.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\bin\Release\net6.0\publish\WebAdminAttendance.deps.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\bin\Release\net6.0\publish\WebAdminAttendance.runtimeconfig.json

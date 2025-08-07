@@ -1,0 +1,14 @@
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\WebAdminAttendance.exe
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\publish\web.config
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\appsettings.Development.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\appsettings.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\publish\appsettings.Development.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\publish\appsettings.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\publish\railway.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\publish\WebAdminAttendance.deps.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\publish\WebAdminAttendance.runtimeconfig.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\railway.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\WebAdminAttendance.dll
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\WebAdminAttendance.deps.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\WebAdminAttendance.runtimeconfig.json
+C:\Programing\WebAdminAttendance\WebAdminAttendance\WebAdminAttendance\out\WebAdminAttendance.pdb
